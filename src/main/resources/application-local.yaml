@@ -2,7 +2,7 @@ spring:
   primary:
     datasource:
       driver-class-name: com.mysql.cj.jdbc.Driver
-      jdbc-url: jdbc:mysql://database-2.cxmouqa8kd3e.ap-northeast-2.rds.amazonaws.com:3306/test?serverTimezone=Asia/Seoul
+      jdbc-url: jdbc:mysql://database-2.cxmouqa8kd3e.ap-northeast-2.rds.amazonaws.com:3306/wind?serverTimezone=Asia/Seoul
       username: admin
       password: 'qweqwe123'
   secondary:
